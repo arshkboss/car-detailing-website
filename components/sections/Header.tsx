@@ -13,7 +13,7 @@ const Header = () => {
             transition={{ duration: 0.2 }}
         >
             <div className="container mx-auto flex justify-between items-center">
-                <h1 className="text-red-600 text-2xl font-bold">Mafia Detailers</h1>
+                <h1 className="text-red-600 text-2xl font-bold">Mafia Hello Detailers</h1>
                 <nav>
                     <ul className="flex space-x-4">
                         <li>
